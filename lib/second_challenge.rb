@@ -20,5 +20,5 @@ def second_challenge
     end 
     counter = counter + 1
   end 
-  
+  return finalArray
 end
