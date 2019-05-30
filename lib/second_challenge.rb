@@ -12,6 +12,6 @@ def second_challenge
     x=key.values 
     finalArray=finalArray + x 
   end
-  
+  return finalArray.uniq
 
 end
