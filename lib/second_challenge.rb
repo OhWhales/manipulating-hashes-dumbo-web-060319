@@ -9,6 +9,7 @@ def second_challenge
   #code your solution here!
   finalArray=[]
   
-  
+  groceries.each do |key,value|
+    z = key.values 
 
 end
