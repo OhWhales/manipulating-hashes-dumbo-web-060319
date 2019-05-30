@@ -17,6 +17,7 @@ def second_challenge
     while (counter2 < z[counter].length)
       finalArray=finalArray+ z[counter][counter2]
       counter2 = counter2 + 1 
+    end 
     counter = counter + 1
   end 
   
