@@ -10,6 +10,10 @@ def second_challenge
   finalArray=[]
   
   z= groceries.values 
-  return z
-
+  
+  counter = 0 
+  while (counter < z.length)
+    counter = counter + 1
+  end 
+  
 end
